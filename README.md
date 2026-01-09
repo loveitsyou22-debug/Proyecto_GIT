@@ -4,7 +4,7 @@
 
 Proyecto en C++ para aprender Git y GitHub.
 
-\## Cambio 1 en rama main
+\## Cambio 2 en rama main
 
 
 
