@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int a=1;
+    int a=2;
     cout << "dev - Cambio: " << endl;
     cout << a << endl;
     return 0;
